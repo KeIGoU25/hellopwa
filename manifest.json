@@ -1,6 +1,6 @@
 {
   "name": "Hello Isekai PWA",
-  "short_name": "HelloPWA",
+  "short_name": "HelloSekai",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
